@@ -30,5 +30,7 @@ The application creates `campusspend.db` automatically on first run.
 The project demonstrates classes and objects, encapsulation, enum types, collections, streams, JDBC, file/database persistence, exception handling, date/time APIs, modular packages, and JUnit testing.
 
 NAME - RISHI SHARMA
+
 REG.NO.- 25BAI11009
+
 BRANCH- CSE(AI&ML)
