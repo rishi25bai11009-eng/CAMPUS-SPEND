@@ -1,0 +1,5 @@
+target/
+campusspend.db
+*.class
+.idea/
+.vscode/
